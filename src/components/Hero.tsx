@@ -22,7 +22,7 @@ export function Hero() {
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto leading-relaxed">
             Meet Sloth AI, ur laid-back coding buddy that builds apps and sites while you rest.
-Wake up to clean, production-ready code.
+            Wake up to clean, production-ready code.
           </p>
 
           {/* CTA Buttons */}
