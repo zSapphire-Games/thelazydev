@@ -18,7 +18,7 @@ const testimonials = [
     role: "CEO",
     company: "Sloth AI",
     avatar: "LS",
-    content: "The code quality is incredible. It's like having a zen master write your applications. Slow, deliberate, and absolutely perfect."
+    content: "The code quality is incredible. I actually even used it while creating this website... What can I say, it just works."
   }
 ];
 
