@@ -16,7 +16,7 @@ const steps = [
   {
     icon: Sun,
     title: "Wake Up to Magic",
-    description: "Rise and shine to a fully functional app, complete with tests, documentation, and deployment. Coffee optional, satisfaction guaranteed.",
+    description: "Wake up to a fully functional app, complete with anything you want. Coffee optional, satisfaction guaranteed.",
     time: "Morning"
   }
 ];
