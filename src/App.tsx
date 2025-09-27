@@ -15,7 +15,6 @@ function App() {
       <HowItWorks />
       <Testimonials />
       <Pricing />
-      
       <CTA />
       <Footer />
     </div>
