@@ -130,7 +130,7 @@ export function Pricing() {
                   )}
                   {!isYearly && plan.price !== "Free" && (
                     <div className="text-sm text-green-600 font-medium mt-1">
-                      Save 28% with yearly
+                      Save 30% with yearly
                     </div>
                   )}
                 </div>
