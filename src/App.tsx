@@ -16,7 +16,6 @@ function App() {
       <Testimonials />
       <Pricing />
       <CTA />
-      <Features />
       <Footer />
     </div>
   );
