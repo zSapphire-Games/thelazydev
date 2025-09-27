@@ -18,9 +18,9 @@ const plans = [
   {
     name: "Deep Sleep",
     price: "$24",
-    yearlyPrice: "$216",
+    yearlyPrice: "$199",
     period: "/month",
-    yearlyPeriod: "/year",
+    yearlyPeriod: "/year ($16.58/month)",
     description: "For developers who take their naps seriously",
     features: [
       "Unlimited nap sessions",
@@ -35,9 +35,9 @@ const plans = [
   {
     name: "Hibernation",
     price: "$69",
-    yearlyPrice: "$621",
+    yearlyPrice: "$599",
     period: "/month",
-    yearlyPeriod: "/year",
+    yearlyPeriod: "/year ($49.92/month)",
     description: "For teams that want to sleep their way to success",
     features: [
       "Everything in Deep Sleep",
@@ -52,7 +52,7 @@ const plans = [
 ];
 
 export function Pricing() {
-  const [isYearly, setIsYearly] = useState(false);
+  const [isYearly, setIsYearly] = useState(true);
 
   return (
     <section id="pricing" className="py-20 bg-gradient-to-br from-green-50 to-blue-50">
