@@ -3,7 +3,7 @@ import { Moon, Code2, Sun } from 'lucide-react';
 const steps = [
   {
     icon: Moon,
-    title: "Tell Sloth What You Want",
+    title: "Tell It What You Want",
     description: "Before bed, tell Sloth AI what you want to build. Be as detailed as you like. (We speak fluent sleepy-developer)",
     time: "Before bed"
   },
