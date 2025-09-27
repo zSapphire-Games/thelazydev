@@ -9,16 +9,9 @@ const testimonials = [
   {
     name: "Mark",
     role: "I met him",
-    company: "an event.",
+    company: "an event",
     avatar: "MR",
     content: "Built our entire MVP while travelling. Investors were impressed, and I was well-rested. Win-win."
-  },
-  {
-    name: "Emily Johnson",
-    role: "Senior Engineer",
-    company: "CloudScale",
-    avatar: "EJ",
-    content: "The code quality is incredible. It's like having a zen master write your applications. Slow, deliberate, and absolutely perfect."
   }
 ];
 
