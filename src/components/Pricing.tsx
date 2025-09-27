@@ -19,7 +19,7 @@ const plans = [
     name: "Deep Sleep",
     price: "$24",
     yearlyPrice: "$199",
-    period: "/month", 
+    period: "per month", 
     yearlyPeriod: " (199/year)",
     description: "For developers who take their naps seriously",
     features: [
@@ -36,7 +36,7 @@ const plans = [
     name: "Hibernation",
     price: "$69",
     yearlyPrice: "$599",
-    period: "/month", 
+    period: "per month", 
     yearlyPeriod: " (599/year)",
     description: "For teams that want to sleep their way to success",
     features: [
