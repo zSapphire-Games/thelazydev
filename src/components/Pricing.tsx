@@ -111,16 +111,26 @@ export function Pricing() {
                 <h3 className="text-2xl font-bold text-gray-900 mb-2">{plan.name}</h3>
                 <div className="mb-4">
                   <span className="text-4xl font-bold text-gray-900">
-                    {isYearly ? plan.yearlyPrice : plan.price}
+                    {isYearly && plan.price !== "Free" ? `$${plan.price === "$24" ? "16.58" : "49.92"}` : plan.price}
                   </span>
-                  {(isYearly ? plan.yearlyPeriod : plan.period) && (
+                  {!isYearly && plan.period && (
                     <span className="text-gray-600">
-                      {isYearly ? plan.yearlyPeriod : plan.period}
+                      {plan.period}
                     </span>
                   )}
                   {isYearly && plan.price !== "Free" && (
+                    <div className="text-lg text-gray-600 mt-1">
+                      /month
+                    </div>
+                  )}
+                  {isYearly && plan.price !== "Free" && (
+                    <div className="text-sm text-gray-500 mt-1">
+                      {plan.yearlyPrice}/year
+                    </div>
+                  )}
+                  {!isYearly && plan.price !== "Free" && (
                     <div className="text-sm text-green-600 font-medium mt-1">
-                      Save 30%
+                      Save 30% with yearly
                     </div>
                   )}
                 </div>
