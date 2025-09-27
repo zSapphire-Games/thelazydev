@@ -31,7 +31,7 @@ export function Testimonials() {
             What our nappers are saying
           </h2>
           <p className="text-xl text-gray-600">
-            Join thousands of developers who've discovered the power of sleep-driven development.
+            Join hundreds of developers who've discovered the power of napping.
           </p>
         </div>
 
