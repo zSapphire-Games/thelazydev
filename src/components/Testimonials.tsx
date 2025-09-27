@@ -1,10 +1,6 @@
 const testimonials = [
   {
-    name: "Nick Kiafas",
-    role: "Software Developer",
-    company: "Vita Studios",
-    avatar: "NK",
-    content: "I used to pull all-nighters debugging code I didn't even write. Now I can type what I want in a sentence, and wake up to perfect code."
+
   },
   {
     name: "Mark",
