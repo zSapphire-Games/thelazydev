@@ -8,8 +8,8 @@ const testimonials = [
   },
   {
     name: "Mark",
-    role: "Startup Founder",
-    company: "Discord",
+    role: "We met Mark",
+    company: "an event in Norway",
     avatar: "MR",
     content: "Built our entire MVP while travelling. Investors were impressed, and I was well-rested. Win-win."
   },
