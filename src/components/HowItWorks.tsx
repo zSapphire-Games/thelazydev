@@ -10,7 +10,7 @@ const steps = [
   {
     icon: Code2,
     title: "Sloth AI Codes",
-    description: "While you dream, Sloth AI codes at the perfect pace. No all-nighters, no stress – just steady, quality development.",
+    description: "While you dream, Sloth AI codes at the perfect pace. No all-nighters, no stress, just steady, quality development.",
     time: "While you sleep"
   },
   {
