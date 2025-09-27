@@ -3,13 +3,13 @@ import { Moon, Code2, Sun } from 'lucide-react';
 const steps = [
   {
     icon: Moon,
-    title: "Set Your Intention",
+    title: "Tell Sloth What You Want",
     description: "Before bed, tell Sloth AI what you want to build. Be as detailed as you like. (We speak fluent sleepy-developer)",
     time: "Before bed"
   },
   {
     icon: Code2,
-    title: "Sloth AI Codes",
+    title: "Sloth AI Codes It",
     description: "While you dream, Sloth AI codes at the perfect pace. No all-nighters, no stress, just steady, quality development.",
     time: "While you sleep"
   },
