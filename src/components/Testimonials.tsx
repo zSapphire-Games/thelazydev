@@ -1,8 +1,8 @@
 const testimonials = [
   {
-    name: "Sarah Chen",
-    role: "Full-stack Developer",
-    company: "TechFlow",
+    name: "Nick Kiafas",
+    role: "Software Developer",
+    company: "Vita Studios",
     avatar: "SC",
     content: "I used to pull all-nighters debugging. Now I just sleep and wake up to perfect code. Sloth AI has literally changed my life and my sleep schedule!"
   },
