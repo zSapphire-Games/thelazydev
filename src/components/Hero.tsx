@@ -30,11 +30,6 @@ export function Hero() {
             <button className="group bg-green-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-green-700 transition-all transform hover:scale-105 flex items-center">
               Start Your Nap
               <ArrowRight className="ml-2 group-hover:translate-x-1 transition-transform" size={20} />
-            </button>
-            <button className="flex items-center text-gray-700 hover:text-green-600 transition-colors">
-              <Play className="mr-2 bg-white rounded-full p-2 shadow-lg" size={32} />
-              Watch Demo (2 min)
-            </button>
           </div>
 
           {/* Stats */}
