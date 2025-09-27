@@ -4,7 +4,7 @@ const steps = [
   {
     icon: Moon,
     title: "Set Your Intention",
-    description: "Before bed, tell Sloth AI what you want to build. Be as detailed or as vague as you like. (We speak fluent sleepy-developer)",
+    description: "Before bed, tell Sloth AI what you want to build. Be as detailed as you like. (We speak fluent sleepy-developer)",
     time: "Before bed"
   },
   {
