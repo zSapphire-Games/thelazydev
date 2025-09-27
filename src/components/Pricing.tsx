@@ -15,7 +15,7 @@ const plans = [
   },
   {
     name: "Deep Sleep",
-    price: "$29",
+    price: "$24.50",
     period: "/month",
     description: "For developers who take their naps seriously",
     features: [
