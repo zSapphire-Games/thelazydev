@@ -1,8 +1,5 @@
 const testimonials = [
   {
-
-  },
-  {
     name: "Mark",
     role: "I met him",
     company: "an event",
