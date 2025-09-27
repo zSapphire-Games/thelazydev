@@ -19,7 +19,7 @@ const plans = [
     name: "Deep Sleep",
     price: "$24",
     yearlyPrice: "$199",
-    period: "per month", 
+    period: "/month", 
     yearlyPeriod: " (199/year)",
     description: "For developers who take their naps seriously",
     features: [
@@ -36,7 +36,7 @@ const plans = [
     name: "Hibernation",
     price: "$69",
     yearlyPrice: "$599",
-    period: "per month", 
+    period: "/month", 
     yearlyPeriod: " (599/year)",
     description: "For teams that want to sleep their way to success",
     features: [
@@ -120,7 +120,7 @@ export function Pricing() {
                   )}
                   {isYearly && plan.price !== "Free" && (
                     <div className="text-lg text-gray-600 mt-1">
-                      /month
+                      per month
                     </div>
                   )}
                   {isYearly && plan.price !== "Free" && (
