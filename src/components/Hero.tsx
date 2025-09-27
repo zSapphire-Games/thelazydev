@@ -36,11 +36,11 @@ export function Hero() {
           {/* Stats */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-2xl mx-auto">
             <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-2">10k+</div>
+              <div className="text-3xl font-bold text-gray-900 mb-2">100+</div>
               <div className="text-gray-600">Happy nappers</div>
             </div>
             <div className="text-center">
-              <div className="text-3xl font-bold text-gray-900 mb-2">50k+</div>
+              <div className="text-3xl font-bold text-gray-900 mb-2">500+</div>
               <div className="text-gray-600">Apps built while sleeping</div>
             </div>
             <div className="text-center">
