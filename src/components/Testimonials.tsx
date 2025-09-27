@@ -9,6 +9,7 @@ const testimonials = [
   {
     name: "Mark",
     role: "I met him",
+    company: "an event.",
     avatar: "MR",
     content: "Built our entire MVP while travelling. Investors were impressed, and I was well-rested. Win-win."
   },
