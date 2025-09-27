@@ -8,7 +8,7 @@ export function CTA() {
           Ready to revolutionize your sleep schedule?
         </h2>
         <p className="text-xl text-green-100 mb-8">
-          Join thousands of developers who've discovered the secret to stress-free coding.
+          Join hundreds of developers who've discovered the secret to stress-free coding.
           Your next breakthrough is just one nap away.
         </p>
         <button className="group bg-white text-green-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-green-50 transition-all transform hover:scale-105 flex items-center mx-auto">
