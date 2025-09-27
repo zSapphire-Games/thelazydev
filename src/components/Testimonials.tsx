@@ -3,15 +3,15 @@ const testimonials = [
     name: "Nick Kiafas",
     role: "Software Developer",
     company: "Vita Studios",
-    avatar: "SC",
-    content: "I used to pull all-nighters debugging. Now I just sleep and wake up to perfect code. Sloth AI has literally changed my life and my sleep schedule!"
+    avatar: "NK",
+    content: "I used to pull all-nighters debugging code I didn't even write. Now I can type what I want in a sentence, and wake up to perfect code."
   },
   {
-    name: "Marcus Rodriguez",
+    name: "Mark",
     role: "Startup Founder",
-    company: "GrowthLab",
+    company: "Discord",
     avatar: "MR",
-    content: "Built our entire MVP while I slept for a week straight. Investors were impressed, I was well-rested. Win-win."
+    content: "Built our entire MVP while travelling. Investors were impressed, and I was well-rested. Win-win."
   },
   {
     name: "Emily Johnson",
