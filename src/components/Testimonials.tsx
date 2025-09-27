@@ -1,10 +1,24 @@
 const testimonials = [
   {
+    name: "Aaron",
+    role: "Software Developer",
+    company: "Vita Studios",
+    avatar: "AA",
+    content: "I used to pull all-nighters debugging code I didn't even write. Now I can type what I want in a sentence, and wake up to perfect code."
+  },
+  {
     name: "Mark",
     role: "I met him",
     company: "an event",
-    avatar: "MR",
+    avatar: "Mark",
     content: "Built our entire MVP while travelling. Investors were impressed, and I was well-rested. Win-win."
+  },
+  {
+    name: "Lukas Sandvik",
+    role: "CEO",
+    company: "Sloth AI",
+    avatar: "LS",
+    content: "The code quality is incredible. It's like having a zen master write your applications. Slow, deliberate, and absolutely perfect."
   }
 ];
 
